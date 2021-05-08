@@ -51,6 +51,7 @@ img {
 
 .header__nav {
   display: flex;
+  position: relative;
 }
 
 .header__link {
@@ -689,8 +690,15 @@ hr {
   font-weight: 400;
   text-align: center;
 }
-
+@media screen and (min-width: 993px) {
+  .header__nav {
+    display: block !important;
+  }
+}
 @media screen and (max-width: 992px) {
+  html.overflow {
+    overflow: hidden;
+  }
   .header__nav {
     display: none;
     position: fixed;
@@ -703,6 +711,20 @@ hr {
     flex-direction: column;
     align-items: center;
     padding: 30px;
+    background-color: #26a6d1;
+  }
+
+  .header__link {
+    font-size: 20px;
+    color: white;
+    padding-bottom: 70px;
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .header__link:hover::after {
+    width: 0%;
   }
 
   .header__link:not(:last-child) {
