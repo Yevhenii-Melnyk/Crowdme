@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 20" width="13" height="20">
+	<defs>
+		<image width="15" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAXCAYAAADUUxW8AAAA00lEQVQ4T62U6xGCQAyEdyvQDrQDLYFSoAPsADrACoQKbEE7sQQ6iBNGGLg34P28m29nk9uE2HG4g0USLCJXAE8AZwAtgBvJPgqLSPYDjzOXHck8CItIDuDhKO1NMvPCAVC1apKVE46Ag2VVsOBU0ILXgAs4At5JlmbjBtsRsCCpf2udEe4BHBzvXnCyLSIfAKetsC8MqleRrL22E+puSRbOho2XkcZZAmtDshDYEs9J4P+DYfSgcWQgPJIzAd0iL0MgvgwMAY3oBUAHoExaQ6EF+QXLr2YYH1EIJAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Banner">
+		<use id="Shape 663 copy 4" href="#img1" transform="matrix(1,0,0,1,-1,-2)"/>
+	</g>
+</svg>

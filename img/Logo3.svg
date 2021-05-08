@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 36" width="210" height="36">
+	<defs>
+		<image width="35" height="38" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAmCAYAAABOFCLqAAABHElEQVRYR+2YUQ6CMBBEpyfSbwlRb6A3sSdQT8BR9AgSxG9ORI2ihih0yxCampT/7T6G2e0uCgE9agxLdks3MGoPmDmgKihz1IvizJ5JwzQgOP0kVtiyQDxMmVYAZh0q5DopVow6Y2BMX0KdFNS5VNADIivTCNP5NSZVZmiZsjC2PE/PMGXKwEh5GhiiTCkYIc8bZnBlkDDWPL6VcYDpa+21Wev0eukqp8mUaZl4B2AJIEdtDn0gbNOTXsBrB/5PGB9Nz0kZqRl5NbDHpudQ2sQ4IEnOqBlkBw7qOogwbV895uboma5Ki8rYdq3omeiZbwWk+yxIzwz+vUGOHdY89o3Sth0wG4UQ8xnIX9Oe83bAbBRSDL0dMH+mpJg7gz64Nhthm18AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 31px;line-height: 77px;fill: #6d6e70;font-weight: 400;font-family: "Nunito-Regular", "Nunito";text-anchor: middle } 
+	</style>
+	<g id="Logo">
+		<text id="Crowdme " style="transform: matrix(1,0,0,1,127,34)" >
+			<tspan x="0" y="0" class="txt0">Crowdme</tspan>
+		</text>
+		<use id="Rounded Rectangle 13 copy 2" href="#img1" transform="matrix(1,0,0,1,-1,-1)"/>
+	</g>
+</svg>
