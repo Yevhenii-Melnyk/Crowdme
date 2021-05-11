@@ -42,6 +42,8 @@ jQuery(document).ready(function($) {
 
   const newSliderSettings = {
     slidesToShow: 1,
+    prevArrow: "<button class='slick-prev'><</button>",
+    nextArrow: "<button class='slick-next'>></button>",
     mobileFirst: true,
     responsive: [
       {
@@ -64,6 +66,8 @@ jQuery(document).ready(function($) {
 
   const SliderSettings = {
     slidesToShow: 1,
+    prevArrow: "<button class='slick-prev'><</button>",
+    nextArrow: "<button class='slick-next'>></button>",
     mobileFirst: true,
     responsive: [
       {
@@ -84,6 +88,8 @@ jQuery(document).ready(function($) {
     }
   });
 
-  $(".slick-prev").text("<");
-  $(".slick-next").text(">");
+  /*$projectsSliders.on("init", function() {
+    $(".slick-prev").text("<");
+    $(".slick-next").text(">");
+  });*/
 });
